@@ -1,0 +1,10 @@
+{
+  "database": {
+    "database":       "testdb",
+    "hosts":          ["127.0.0.1"],
+    "port":           18086,
+    "username":       null,
+    "password":       null,
+    "time_precision": "s"
+  }
+}
